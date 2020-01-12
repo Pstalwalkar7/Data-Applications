@@ -1,7 +1,7 @@
 # Data-Applications
 Database for a simple food delivery system
 Monsoon 2019:
-This is the project under the Data and Applications Project.
+This is the project under the Data and Applications Course.
 
 OBJECTIVE:
 To provide a database for a simple food delivery company.
